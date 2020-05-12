@@ -5,3 +5,4 @@ In this case, we have data points of Class A and B. We want to predict what the 
 In this sense, it is important to consider the value of k. But hopefully from this diagram, you should get a sense of what the K-Nearest Neighbors algorithm is. It considers the 'K' Nearest Neighbors (points) when it predicts the classification of the test point.
 The datasets were obtained from kaggle.com and a basic approach of KNN was applied.
 
+
